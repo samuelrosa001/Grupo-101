@@ -1,0 +1,45 @@
+[
+  {
+    "id": "guia-90-dias",
+    "title": "Guía de Inicio Rápido: Los Primeros 14 Días",
+    "category": "PDF Educativo",
+    "type": "Descarga Directa",
+    "description": "Manual práctico paso a paso para configurar tu entorno de trabajo, tu primera lista de contactos estratégicos y tu presencia digital.",
+    "isUpcoming": false,
+    "downloadUrl": "#"
+  },
+  {
+    "id": "plantillas-redes",
+    "title": "Pack de Plantillas de Publicación para Instagram y Facebook",
+    "category": "Diseño Canva / Social Media",
+    "type": "Plantillas Editables",
+    "description": "Colección de diseños profesionales editables para mostrar los beneficios del cuidado de la piel y nutrición sin sonar vendedor tradicional.",
+    "isUpcoming": false,
+    "downloadUrl": "#"
+  },
+  {
+    "id": "scripts-conversacion",
+    "title": "Manual de Scripts y Conversaciones Elegantes",
+    "category": "PDF / Guía de Comunicación",
+    "type": "Guía Práctica",
+    "description": "Aprende qué responder ante preguntas comunes, cómo presentar la oportunidad sin presionar y cómo generar curiosidad legítima.",
+    "isUpcoming": false,
+    "downloadUrl": "#"
+  },
+  {
+    "id": "video-presentacion-oficial",
+    "title": "Video Interactivo: Cómo Explicar el Modelo Oriflame en 10 Minutos",
+    "category": "Video HD",
+    "type": "Herramienta de Presentación",
+    "description": "Video listo para enviar a tus prospectos que explica de forma transparente y elegante los beneficios de unirse al proyecto.",
+    "isUpcoming": true
+  },
+  {
+    "id": "calculadora-incentivos",
+    "title": "Calculadora Interactiva de Crecimiento de Equipo (Próximamente)",
+    "category": "Herramienta Web",
+    "type": "Software Interactivo",
+    "description": "Simulador dinámico para entender la estructura de incentivos y los niveles del Plan del Éxito Oriflame.",
+    "isUpcoming": true
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "number": "01",
+    "title": "Registro Oficial en la Plataforma",
+    "description": "Regístrate de manera sencilla y sin costo inicial para obtener tu código oficial de patrocinio con Eduardo Cruz Alcántara.",
+    "detail": "Acceso inmediato al portal corporativo de Oriflame y vinculación a nuestro equipo exclusivo de aceleración de 90 días.",
+    "icon": "UserPlus"
+  },
+  {
+    "number": "02",
+    "title": "Integración al Grupo Privado de WhatsApp",
+    "description": "Únete a nuestro grupo VIP de WhatsApp para recibir noticias, avisos de entrenamientos en vivo y apoyo inmediato.",
+    "detail": "Conecta de inmediato con tu patrocinador y la comunidad de emprendedores listos para impulsarte desde el día uno.",
+    "icon": "MessageSquare"
+  },
+  {
+    "number": "03",
+    "title": "Capacitación y Dominio de Herramientas",
+    "description": "Accede a las unidades de entrenamiento básico: conoce el catálogo digital, las líneas de producto y el plan de desarrollo.",
+    "detail": "Aprenderás a usar tus herramientas digitales, la App móvil corporativa y nuestro sistema de recomendación.",
+    "icon": "BookOpen"
+  },
+  {
+    "number": "04",
+    "title": "Aprende a Compartir la Oportunidad",
+    "description": "Implementa estrategias orgánicas y digitales para compartir productos e invitar a otras personas a tu equipo.",
+    "detail": "Utiliza nuestras plantillas, guías de diálogo y webinars grupales donde el equipo te ayuda a presentar la visión del negocio.",
+    "icon": "Share2"
+  },
+  {
+    "number": "05",
+    "title": "Desarrollo y Escalamiento de tu Negocio",
+    "description": "Construye una red sólida de consumidores y distribuidores mientras avanzas en la escalera del éxito de la compañía.",
+    "detail": "Evaluación mensual de metas, mentorías avanzadas de liderazgo y preparación para el nivel Diamante.",
+    "icon": "Award"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  { "label": "Inicio", "path": "/" },
+  { "label": "Cómo Funciona", "path": "/como-funciona" },
+  { "label": "Capacitaciones", "path": "/capacitaciones" },
+  { "label": "Recursos", "path": "/recursos" },
+  { "label": "Blog", "path": "/blog" },
+  { "label": "FAQ", "path": "/preguntas-frecuentes" },
+  { "label": "Contacto", "path": "/contacto" },
+  { "label": "Zona Privada", "path": "/privado", "requiresAuth": true },
+  { "label": "Dashboard", "path": "/dashboard", "requiresAuth": true }
+]

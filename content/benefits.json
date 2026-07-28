@@ -1,0 +1,58 @@
+[
+  {
+    "id": "capacitacion",
+    "title": "Capacitación Continua",
+    "description": "Accede a entrenamientos estructurados semana a semana sobre marketing digital, liderazgo y desarrollo de marca personal.",
+    "icon": "GraduationCap",
+    "badge": "Evolución Constant"
+  },
+  {
+    "id": "mentoria",
+    "title": "Mentoría Personalizada",
+    "description": "Recibe acompañamiento directo de Eduardo Cruz Alcántara y líderes experimentados que ya recorrieron el camino.",
+    "icon": "Users",
+    "badge": "Acompañamiento Real"
+  },
+  {
+    "id": "sin-puerta-a-puerta",
+    "title": "Sin Vender Puerta a Puerta",
+    "description": "Olvida los métodos antiguos. Aprende a conectar con personas a través de redes sociales y estrategias digitales modernas.",
+    "icon": "Smartphone",
+    "badge": "Método 100% Digital"
+  },
+  {
+    "id": "herramientas",
+    "title": "Ecosistema de Herramientas",
+    "description": "Acceso a plantillas listas para publicar, guías de conversación, scripts y sistemas automatizados de presentación.",
+    "icon": "Wrench",
+    "badge": "Recursos Listos"
+  },
+  {
+    "id": "comunidad",
+    "title": "Comunidad Privada",
+    "description": "Únete a una red activa de emprendedores que comparten experiencias, resuelven dudas y celebran tus avances cada día.",
+    "icon": "ShieldCheck",
+    "badge": "Red de Apoyo"
+  },
+  {
+    "id": "flexibilidad",
+    "title": "Flexibilidad de Horarios",
+    "description": "Desarrolla tu proyecto a tu propio ritmo desde casa o desde cualquier lugar con conexión a internet.",
+    "icon": "Clock",
+    "badge": "Tu Propio Horario"
+  },
+  {
+    "id": "crecimiento-personal",
+    "title": "Crecimiento Personal",
+    "description": "Desarrolla habilidades clave en comunicación, mentalidad de abundancia, gestión del tiempo y liderazgo de equipos.",
+    "icon": "TrendingUp",
+    "badge": "Desarrollo Integral"
+  },
+  {
+    "id": "negocio-digital",
+    "title": "Negocio Digital Escalable",
+    "description": "Aprende el modelo de compartir productos de belleza y bienestar con respaldo de una multinacional sueca de primer nivel.",
+    "icon": "Globe",
+    "badge": "Respaldo Global"
+  }
+]

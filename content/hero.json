@@ -1,0 +1,20 @@
+{
+  "badge": "Programa de Acompañamiento Estratégico 2026",
+  "title": "Desarrolla tu Negocio en",
+  "highlightedTitle": "90 Días",
+  "subtitle": "Aprende paso a paso cómo comenzar a desarrollar un negocio compartiendo productos con el respaldo de una comunidad, herramientas digitales y capacitación continua.",
+  "primaryCta": {
+    "label": "Quiero comenzar gratis",
+    "url": "https://shop.oriflame.com/MX-eduardocruzalcantara/U2MPjsOt"
+  },
+  "secondaryCta": {
+    "label": "Entrar al Grupo",
+    "url": "https://chat.whatsapp.com/FFz1mH5xSngAehZXwEI01X?mode=ac_c"
+  },
+  "stats": [
+    { "value": "90", "label": "Días de Mentoría" },
+    { "value": "100%", "label": "Digital & Flexibilidad" },
+    { "value": "+1,200", "label": "Emprendedores Guiados" },
+    { "value": "24/7", "label": "Soporte de Comunidad" }
+  ]
+}

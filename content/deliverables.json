@@ -1,0 +1,44 @@
+[
+  {
+    "id": "videos",
+    "title": "Módulos en Video Bajo Demanda",
+    "description": "Lecciones en video HD con guías paso a paso accesibles las 24 horas del día para ver desde tu teléfono o laptop.",
+    "tag": "Acceso 24/7",
+    "icon": "Video"
+  },
+  {
+    "id": "materiales",
+    "title": "Kits de Materiales y Plantillas",
+    "description": "Imágenes promocionales de alta calidad, copys optimizados y recursos descargables listos para compartir.",
+    "tag": "Descargables",
+    "icon": "FolderDown"
+  },
+  {
+    "id": "grupo-privado",
+    "title": "Grupo Privado de Acompañamiento",
+    "description": "Espacio exclusivo para interactuar con mentores, hacer preguntas en tiempo real y resolver cualquier duda rápidamente.",
+    "tag": "Soporte VIP",
+    "icon": "Users"
+  },
+  {
+    "id": "soporte",
+    "title": "Soporte Continuo de Mentoría",
+    "description": "Atención directa de Eduardo Cruz Alcántara para guiar tus decisiones operativas y estratégicas del negocio.",
+    "tag": "Directo",
+    "icon": "Headphones"
+  },
+  {
+    "id": "entrenamientos",
+    "title": "Sesiones en Vivo y Q&A",
+    "description": "Masterclasses semanales vía Zoom sobre ventas digitales, prospección moderna y mentalidad de éxito.",
+    "tag": "En Vivo",
+    "icon": "Radio"
+  },
+  {
+    "id": "actualizaciones",
+    "title": "Actualizaciones de Lanzamientos",
+    "description": "Recibe antes que nadie las estrategias de cada nuevo catálogo Oriflame y las promociones vigentes.",
+    "tag": "Siempre al Día",
+    "icon": "Zap"
+  }
+]

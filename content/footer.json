@@ -1,0 +1,36 @@
+{
+  "brand": {
+    "title": "Desarrollo de Diamantes en 90 Días",
+    "sponsor": "Eduardo Cruz Alcántara",
+    "description": "Comunidad independiente de emprendimiento y desarrollo acelerado en 90 días respaldada por Oriflame."
+  },
+  "sections": [
+    {
+      "title": "Navegación Rápida",
+      "links": [
+        { "label": "Inicio", "url": "/" },
+        { "label": "Cómo Funciona", "url": "/como-funciona" },
+        { "label": "Programa de Capacitación", "url": "/capacitaciones" },
+        { "label": "Recursos Descargables", "url": "/recursos" },
+        { "label": "Artículos & Blog SEO", "url": "/blog" }
+      ]
+    },
+    {
+      "title": "Plataforma & Accesos",
+      "links": [
+        { "label": "Preguntas Frecuentes", "url": "/preguntas-frecuentes" },
+        { "label": "Formulario de Contacto", "url": "/contacto" },
+        { "label": "Portal de Registro Oficial", "url": "/registro" },
+        { "label": "Zona de Miembros (Privado)", "url": "/privado" },
+        { "label": "Panel de Distribuidores", "url": "/dashboard" }
+      ]
+    },
+    {
+      "title": "Acciones Directas",
+      "links": [
+        { "label": "Registro Gratuito Oriflame", "url": "https://shop.oriflame.com/MX-eduardocruzalcantara/U2MPjsOt", "isExternal": true },
+        { "label": "Grupo de WhatsApp VIP", "url": "https://chat.whatsapp.com/FFz1mH5xSngAehZXwEI01X?mode=ac_c", "isExternal": true }
+      ]
+    }
+  ]
+}

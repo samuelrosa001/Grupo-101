@@ -1,0 +1,47 @@
+[
+  {
+    "id": "post-1",
+    "slug": "como-iniciar-tu-negocio-digital-en-90-dias",
+    "title": "Cómo iniciar un negocio digital compartiendo productos en 90 días",
+    "excerpt": "Descubre las claves para estructurar tus primeros 3 meses de emprendimiento independiente con un sistema de acompañamiento y comunidad activa.",
+    "category": "Estrategia Digital",
+    "publishedAt": "2026-07-15",
+    "readTime": "5 min de lectura",
+    "author": {
+      "name": "Eduardo Cruz Alcántara",
+      "role": "Líder & Patrocinador",
+      "avatar": "/images/avatar-sponsor.jpg"
+    },
+    "content": "El emprendimiento moderno no requiere grandes capitales de inversión ni inventarios pesados. Gracias al modelo de recomendación de productos de belleza y salud de alta calidad de origen sueco..."
+  },
+  {
+    "id": "post-2",
+    "slug": "marketing-de-atraccion-vs-ventas-tradicionales",
+    "title": "Marketing de Atracción vs Ventas Tradicionales: La nueva era del multinivel",
+    "excerpt": "Por qué presionar a tus conocidos ya no funciona y cómo el contenido de valor atrae a prospectos verdaderamente interesados.",
+    "category": "Marketing & Prospección",
+    "publishedAt": "2026-07-20",
+    "readTime": "6 min de lectura",
+    "author": {
+      "name": "Eduardo Cruz Alcántara",
+      "role": "Líder & Patrocinador",
+      "avatar": "/images/avatar-sponsor.jpg"
+    },
+    "content": "El mayor error de los emprendedores principiantes es intentar vender a la fuerza a personas que no necesitan su oferta. En la plataforma Desarrollo de Diamantes te enseñamos a atraer personas calificadas..."
+  },
+  {
+    "id": "post-3",
+    "slug": "el-poder-del-respaldo-sueco-en-belleza-y-bienestar",
+    "title": "El poder del respaldo sueco en productos de belleza y bienestar",
+    "excerpt": "Exploramos el compromiso con la sustentabilidad, los estándares europeos de ingredientes y por qué Oriflame es el socio comercial ideal.",
+    "category": "Productos & Respaldo",
+    "publishedAt": "2026-07-25",
+    "readTime": "4 min de lectura",
+    "author": {
+      "name": "Eduardo Cruz Alcántara",
+      "role": "Líder & Patrocinador",
+      "avatar": "/images/avatar-sponsor.jpg"
+    },
+    "content": "Suecia es referente global en innovación, sustentabilidad y calidad de vida. Al asociarte con Oriflame, cuentas con el respaldo de más de 50 años de ciencia e investigación dermatológica..."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "faq-1",
+    "question": "¿Necesito experiencia previa en ventas o marketing para unirme?",
+    "answer": "No. El programa de 90 Días está diseñado expresamente para guiarte desde cero. Aprenderás paso a paso cómo utilizar las herramientas digitales y cómo compartir la oportunidad sin presionar a nadie.",
+    "category": "Inicio"
+  },
+  {
+    "id": "faq-2",
+    "question": "¿Existe algún costo para unirme a la comunidad y capacitaciones?",
+    "answer": "El acceso a la comunidad, materiales, guías y capacitaciones lideradas por Eduardo Cruz Alcántara es 100% gratuito al registrarte con nuestro enlace de patrocinio oficial en Oriflame.",
+    "category": "Costos"
+  },
+  {
+    "id": "faq-3",
+    "question": "¿Tengo que vender productos puerta a puerta o molestar a mis amigos?",
+    "answer": "En absoluto. Promovemos el marketing de atracción digital moderno. Te enseñamos a construir una marca personal auténtica, crear contenido de valor y atraer personas interesadas en productos de belleza y salud sueca.",
+    "category": "Metodología"
+  },
+  {
+    "id": "faq-4",
+    "question": "¿Se garantizan ingresos fijos al unirse?",
+    "answer": "No. Este es un negocio independiente respaldado por Oriflame. Los resultados financieros varían según el esfuerzo personal, el tiempo invertido, la dedicación y la consistencia de cada distribuidor.",
+    "category": "Legal"
+  },
+  {
+    "id": "faq-5",
+    "question": "¿Cuánto tiempo debo dedicarle al día?",
+    "answer": "Puedes comenzar dedicando entre 1 y 2 horas al día, adaptándolo completamente a tus horarios actuales, empleo o estudios.",
+    "category": "Tiempo"
+  },
+  {
+    "id": "faq-6",
+    "question": "¿Cómo me pongo en contacto directamente con Eduardo Cruz Alcántara?",
+    "answer": "Al completar tu registro o al dar clic en 'Entrar al Grupo', accederás directamente al grupo privado de WhatsApp donde Eduardo y el equipo de liderazgo te darán la bienvenida personalmente.",
+    "category": "Soporte"
+  }
+]

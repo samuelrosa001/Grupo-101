@@ -1,6 +1,5 @@
 [
   { "label": "Inicio", "path": "/" },
-  { "label": "Unirse", "path": "/unirse" },
   { "label": "Cómo Funciona", "path": "/como-funciona" },
   { "label": "Capacitaciones", "path": "/capacitaciones" },
   { "label": "Recursos", "path": "/recursos" },
